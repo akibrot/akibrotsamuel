@@ -91,7 +91,7 @@ function MobileResponsive() {
 
                     <div data-aos="fade-up" className="text-3xl font-400 text-gray-700">Akibrot Samuel</div>
                     <div data-aos="fade-up" className="text-2xl font-light text-gray-900">From Addis Ababa, Ethiopia</div>
-                    <div data-aos="fade-up" className=" text-2xl font-extralight animate-pulse ">{item}</div>
+                    <div className=" text-2xl font-extralight animate-pulse ">{item}</div>
 
                 </div>
                 <div id="aboutmobile" className=" px-8 mt-5">
